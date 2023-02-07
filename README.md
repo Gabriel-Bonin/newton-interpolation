@@ -5,6 +5,10 @@ Polynomial interpolation is a method of estimating values between known data poi
 
 The code here was used in a project for the Brazilian Navy, when I was part of Quanta Jr [[2]](https://www.quanta.org.br/). This is a general code since the data used cannot be shared.
 
+## Instructions
+To run this repository code, please install all dependencies running the following command on the terminal:
+
+`pip install -r requirements.txt`
 
 ## References
 [1] https://en.wikipedia.org/wiki/Newton_polynomial
